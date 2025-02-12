@@ -1,0 +1,3 @@
+CRUD (Create, Read, Update, Delete) é um conjunto de operações essenciais para manipulação de dados em aplicações web. No PHP, ele permite interagir com bancos de dados, garantindo que usuários possam cadastrar, visualizar, editar e excluir informações de forma dinâmica.
+
+Sua importância está na organização e eficiência do código, tornando o desenvolvimento mais estruturado e facilitando a manutenção do sistema. Além disso, ao implementar corretamente um CRUD, é possível garantir segurança e integridade dos dados, essencial para qualquer aplicação web profissional.
